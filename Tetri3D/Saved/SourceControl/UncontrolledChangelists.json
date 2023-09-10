@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uasset",
+				"C:/Users/kaziu/Documents/Unreal Projects/Tetri3D/Content/MainLevel.umap",
+				"C:/Users/kaziu/Documents/Unreal Projects/Tetri3D/Content/BP_Bucket.uasset",
+				"C:/Users/kaziu/Documents/Unreal Projects/Tetri3D/Content/BP_TetrisShape.uasset",
+				"C:/Users/kaziu/Documents/Unreal Projects/Tetri3D/Content/BP_Camera.uasset",
+				"C:/Users/kaziu/Documents/Unreal Projects/Tetri3D/Content/BP_Block.uasset",
+				"C:/Users/kaziu/Documents/Unreal Projects/Tetri3D/Content/Blueprints/NewGameMode.uasset",
+				"C:/Users/kaziu/Documents/Unreal Projects/Tetri3D/Content/BP_BlockChecker.uasset",
+				"C:/Users/kaziu/Documents/Unreal Projects/Tetri3D/Content/MenuPause.uasset",
+				"C:/Users/kaziu/Documents/Unreal Projects/Tetri3D/Content/ShowScore.uasset",
+				"C:/Users/kaziu/Documents/Unreal Projects/Tetri3D/Content/MainLevel_BuiltData.uasset",
+				"C:/Users/i322735/Documents/Unreal Projects/Tetri3D/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/i322735/Documents/Unreal Projects/Tetri3D/Content/MainLevel.umap",
+				"C:/Users/i322735/Documents/Unreal Projects/Tetri3D/Content/BP_TetrisShape.uasset",
+				"C:/Users/i322735/Documents/Unreal Projects/Tetri3D/Content/BP_Bucket.uasset",
+				"C:/Users/i322735/Documents/Unreal Projects/Tetri3D/Content/BP_Block.uasset"
+			]
+		}
+	]
+}
